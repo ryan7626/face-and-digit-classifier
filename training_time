@@ -1,0 +1,121 @@
+Classifier: mostFrequent
+Data: digits
+100 training
+100 testing
+Classifier: mostFrequent
+Data: digits
+100 training
+100 testing
+Classifier: perceptron
+Data: digits
+100 training
+100 testing
+Classifier: perceptron
+Data: digits
+100 training
+100 testing
+Classifier: perceptron
+Data: digits
+100 training
+100 testing
+Classifier: perceptron
+Data: digits
+100 training
+100 testing
+Classifier: perceptron
+Data: digits
+100 training
+100 testing
+Classifier: perceptron
+Data: digits
+100 training
+100 testing
+Classifier: perceptron
+Data: digits
+100 training
+100 testing
+Classifier: perceptron
+Data: digits
+100 training
+100 testing
+Classifier: perceptron
+Data: digits
+100 training
+100 testing
+Classifier: perceptron
+Data: digits
+100 training
+100 testing
+Classifier: perceptron
+Data: digits
+100 training
+100 testing
+Classifier: perceptron
+Data: digits
+100 training
+100 testing
+Classifier: perceptron
+Data: digits
+100 training
+100 testing
+Classifier: perceptron
+Data: digits
+100 training
+100 testing
+Classifier: perceptron
+Data: digits
+100 training
+100 testing
+Classifier: perceptron
+Data: digits
+100 training
+100 testing
+['1.93256998062']
+48.0
+
+Classifier: naiveBayes
+Data: digits
+1000 training
+100 testing
+Classifier: perceptron
+Data: digits
+1000 training
+100 testing
+['19.49178195']
+75.0
+
+Classifier: neuralNetwork
+Data: digits
+1000 training
+100 testing
+['0.409907102585']
+84.0
+
+Classifier: perceptron
+Data: faces
+10 training
+100 testing
+['0.252252101898']
+59.0
+
+Classifier: perceptron
+Data: digits
+1000 training
+100 testing
+['21.1666140556']
+75.0
+
+Classifier: perceptron
+Data: digits
+1 training
+100 testing
+['0.00342011451721']
+10.0
+
+Classifier: perceptron
+Data: digits
+1000 training
+100 testing
+['21.5337269306']
+75.0
+
